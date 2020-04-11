@@ -42,6 +42,14 @@
     background: #367fa9;
   }
 }
+.load {
+  position: fixed;
+  left: 0px;
+  top: 30px;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  color: blue; }
 .skin-blue .main-header .logo {
   background-color: #367fa9;
   color: #ffffff;
