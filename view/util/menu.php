@@ -88,10 +88,10 @@
                             <i class="fa fa-angle-left pull-right"></i>
                         </a>
                         <ul class="treeview-menu">
-                            <li><a href="../../view/form/indicedemografico.php"><i class="fa fa-address-book"></i>Índice risco saude bucal</a></li>
-                            <li><a href="../../view/form/indiceriscosaudebucal.php"><i class="fa fa-address-book"></i>Índice de carie </a></li>
+                            <li><a href="../../view/form/indicecarie.php"><i class="fa fa-address-book"></i>Índice de carie</a></li>
+                            <li><a href="../../view/form/indiceriscosaudebucal.php"><i class="fa fa-address-book"></i>Índice risco saúde bucal</a></li>
                            
-                            <li><a href="../../view/form/sociodemografico.php"><i class="fa fa-address-book"></i>Sociodemografico</a></li>
+                            <li><a href="../../view/form/sociodemografico.php"><i class="fa fa-address-book"></i>Sociodemográfico</a></li>
                             <li><a href="#"><i class="fa fa-address-book"></i>Inventario alimentar</a></li>
                         
                         </ul>
