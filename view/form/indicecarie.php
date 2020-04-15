@@ -227,11 +227,12 @@
       <tr>
       </tbody> 
       </table>
+      <div class="float-left">
+      <button type="button" class="btn btn-success">Salvar</button>
       </div>
       </div>
       </div>
-      </div>  
-      </section>                     
+      </section>
       </div>
    </body>
 </html>
