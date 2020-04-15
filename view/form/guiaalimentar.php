@@ -16,7 +16,7 @@
                     <thead>
                       <tr>
                         <th>
-                          <p>Se você achar que mais de uma resposta está certa, escolha a que você mais costuma fazer quando come.</p>
+                          <p>Se você achar que mais de uma resposta está certa, escolha a que você mais costuma fazer quando comer.</p>
                           <p>Lembre - se:responda o que você realmente come, e não o que gostaria ou acha que seria melhor.</p>
                           <p>Se você tiver alguma dificuldade para responder, peça ajuda a alguém próximo da familía, amigo ou vizinho.</p>
                           <p>Escolha só UMA resposta. Vamos começar!</p>  
@@ -573,9 +573,12 @@
         
     </tbody>
     </table>
-    </div>
-    </div>
-    </section>
-    </div>
+    <div class="float-left">
+      <button type="button" class="btn btn-success">Salvar</button>
+      </div>
+      </div>
+      </div>
+      </section>
+      </div>
   </body>
 </html>
