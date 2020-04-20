@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
+<?php include '../../view/util/head.php'; ?>
   <body class="hold-transition skin-blue sidebar-mini fixed">
-    <div class="se-pre-con"></div>
+  <div class="loader">
+    <img src="../../bootstrap/components/img/805.gif" alt="Loading..." />
+</div>
     <?php include '../../view/util/menu.php'; ?>
     <div class="content-wrapper" id="sec">
       <section class="content" id="content">

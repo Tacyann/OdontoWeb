@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html >
-   <body class="hold-transition skin-blue sidebar-mini fixed">
+<?php include '../../view/util/head.php'; ?>
+  <body class="hold-transition skin-blue sidebar-mini fixed">
+  <div class="loader">
+    <img src="../../bootstrap/components/img/805.gif" alt="Loading..." />
+</div>
    <div class="load"> <i class="fa fa-cog fa-spin fa-3x fa-fw"></i><span class="sr-only">Loading...</span> </div>
       <?php include '../../view/util/menu.php'; ?>
       <div class="content-wrapper" id="sec">
