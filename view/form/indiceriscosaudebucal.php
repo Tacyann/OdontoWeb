@@ -192,6 +192,10 @@
     </tr>
     </tbody>
     </table>
+    <div style="float:left; ">
+        <button type="submit" class="btn btn-success" >Salvar</button>
+        <button type="reset" class="btn btn-info">Cancelar</button>
+    </div>
     </div>
     </div>
     </section>
