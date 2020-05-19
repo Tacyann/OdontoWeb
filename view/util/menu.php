@@ -24,7 +24,7 @@
              <li><a href="../view/indice_carie.php">Índice de carie</a></li>
              <li><a href="../view/saude_bocal.php">Índice risco saúde bucal</a></li>
              <li><a href="../view/sociodemografico.php">Sociodemográfico</a></li>
-             <li><a href="#">Guia Alimentar</a></li>
+             <li><a href="../view/guia_alimentar.php">Guia Alimentar</a></li>
              <li><a href="#">Inventario alimentar</a></li>
          </ul>
          <!-- Dropdown -->
