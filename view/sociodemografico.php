@@ -4,7 +4,6 @@
 
 <body>
     <?php include '../view/util/menu.php'; ?>
-
     <!-- Grid -->
     <div class="row ">
         <div class="col s12 m12">
@@ -16,29 +15,30 @@
                     <div class="row">
                         <form class="col s12">
                             <div class="row">
-                                <div class="input-field col s4">
+                                <div class="input-field col md4">
                                     <i class="material-icons prefix">format_list_numbered</i>
                                     <input id="icon_prefix" type="text" class="validate">
                                     <label for="icon_prefix">Número da inscrição</label>
                                 </div>
-                                <div class="input-field col s4">
+                                <div class="input-field col md4">
                                     <i class="material-icons prefix">date_range</i>
                                     <input type="text" class="datepicker validate">
 
                                     <label for="icon_telephone">Data da coleta dos dados</label>
                                 </div>
-                                <div class="input-field col s2">
+                                <div class="input-field col md2">
                                     <i class="material-icons prefix">school</i>
                                     <input id="icon_prefix" type="number" class="validate">
                                     <label for="icon_prefix">Série</label>
                                 </div>
-                                <div class="input-field col s2">
+                                <div class="input-field col md2">
                                     <i class="material-icons prefix">person</i>
                                     <input id="icon_prefix" type="number" class="validate">
                                     <label for="icon_prefix">Idade</label>
                                 </div>
-
-                                <div class="input-field col s3">
+                                </div>
+                                <div class="row">
+                                <div class="input-field col md3">
                                     <select>
                                         <option value="" disabled selected>Selecione uma opção</option>
                                         <option value="1">Masculino</option>
@@ -47,7 +47,7 @@
                                     </select>
                                     <label>Sexo</label>
                                 </div>
-                                <div class="input-field col s3">
+                                <div class="input-field col md3">
                                     <select>
                                         <option value="" disabled selected>Selecione uma opção</option>
                                         <option value="S">Solteiro(a)</option>
@@ -58,7 +58,7 @@
                                     </select>
                                     <label>Estado Civil</label>
                                 </div>
-                                <div class="input-field col s3">
+                                <div class="input-field col md3">
                                     <select>
                                         <option value="" disabled selected>Selecione uma opção</option>
                                         <option value="BR">Branco</option>
@@ -69,7 +69,7 @@
                                     </select>
                                     <label>Etinia/Raça</label>
                                 </div>
-                                <div class="input-field col s3">
+                                <div class="input-field col md3">
                                     <select>
                                         <option value="" disabled selected>Selecione uma opção</option>
                                         <option value="AF">Alfabeto</option>
@@ -78,9 +78,10 @@
                                         <option value="FC">Fundamental completo</option>
                                         <option value="FI">Fundamental incompleto</option>
                                     </select>
-                                    <label>Grau de Escolaridade do Responsável</label>
+                                    <label>Escolaridade do Responsável</label>
                                 </div>
                             </div>
+
                         </form>
                     </div>
                     <!--Conteudo checkbox-->
