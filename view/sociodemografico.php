@@ -103,31 +103,31 @@
                                     <td>1. Itens de Conforto</td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -136,31 +136,31 @@
                                     <td>2. Quantidade de automóveis de passeio exclusivamente para uso particular</td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -170,31 +170,31 @@
                                         pelo menos cinco dias por semana</td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -204,31 +204,31 @@
 
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -238,31 +238,31 @@
 
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -272,31 +272,31 @@
                                         automóvel</td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -308,31 +308,31 @@
                                     <td>7. Quantidade de geladeiras</td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -344,31 +344,31 @@
                                     <td>8. Quantidade de freezers independentes ou parte da geladeira duplex</td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -381,31 +381,31 @@
                                         notebooks e desconsideranto tablets, palms ou smartphones</td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -417,31 +417,31 @@
                                     <td>10. Quantidade de lavadora de louças</td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -453,31 +453,31 @@
                                     <td>11. Quantidade de fornos de mocro-ondas</td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -490,31 +490,31 @@
                                         uso profissional</td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -526,31 +526,31 @@
                                     <td>13. Quantidade de máquinas secadoras de roupas, considerando lava seca</td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -562,31 +562,31 @@
                                     <td>14. Quantidade de aparelhos celulares</td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
                                     <td>
                                         <label>
-                                            <input type="checkbox" />
+                                            <input type="checkbox" id="form" name="form" />
                                             <span></span>
                                         </label>
                                     </td>
@@ -600,8 +600,7 @@
                     <!--Conteudo checkbox-->
                 </div>
                 <div class="card-action">
-                    <a href="#">Limpar</a>
-                    <a onclick="M.toast({html: 'Preencha todos os campos!'})">Salvar</a>
+                <button type="button" onclick="M.toast({html: 'Questionário enviado com Sucesso!'})">Salvar</button>
                 </div>
             </div>
         </div>

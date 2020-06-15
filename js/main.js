@@ -19,3 +19,16 @@ document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.datepicker');
     var instances = M.Datepicker.init(elems);
   });
+  
+  var inputs = document.querySelectorAll('input');
+
+function verificar() {
+    return [].filter.call(inputs, function (input) {
+        return input.checked;
+    }).length;
+}
+document.querySelector('button').addEventListener('click', function () {
+    var valido = verificar();
+    if (!valido) alert('Preencher todos os checkbox!');
+    //else alert('Tudo ok!');
+});
